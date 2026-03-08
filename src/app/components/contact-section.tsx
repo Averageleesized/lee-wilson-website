@@ -8,15 +8,6 @@ export function ContactSection() {
         
         <div className="flex flex-col sm:flex-row items-center justify-center gap-6 sm:gap-8">
           <a
-            href="mailto:leewilson108@gmail.com"
-            className="text-[#7A9E7E] text-lg font-medium hover:underline"
-          >
-            leewilson108@gmail.com
-          </a>
-          
-          <span className="hidden sm:inline text-[#6B6B6B]">·</span>
-          
-          <a
             href="https://www.linkedin.com/in/leewilson9/"
             target="_blank"
             rel="noopener noreferrer"
