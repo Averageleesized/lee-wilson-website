@@ -84,8 +84,6 @@ Body copy (single column, max-width 640px, centered):
 I start with people. Customers first, then the stakeholders around them — not to check a box, but because the real problem is almost never the obvious one. Once I understand what's actually blocking progress, I bring the team into that picture and we build toward it together. Then we ship, watch what happens, and do it again.
 I work independently until there's something worth aligning on. Then I collaborate hard.
 
-No bullets. No framework names. No buzzwords.
-
 Section 4 — Building
 Section label: BUILDING
 Section heading: What I'm working on
@@ -111,10 +109,6 @@ Section 6 — Contact
 Section heading (large, centered):
 
 Let's work together.
-
-Subhead:
-
-I'm open to senior PM roles and interesting problems.
 
 Two links centered, spaced:
 leewilson108@gmail.com · LinkedIn →

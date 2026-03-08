@@ -19,9 +19,6 @@ export function ProcessSection() {
             I work independently until there's something worth aligning on. Then I collaborate hard.
           </p>
           
-          <p className="text-[#6B6B6B] italic">
-            No bullets. No framework names. No buzzwords.
-          </p>
         </div>
       </div>
     </section>
