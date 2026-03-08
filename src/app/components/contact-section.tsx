@@ -17,7 +17,7 @@ export function ContactSection() {
           <span className="hidden sm:inline text-[#6B6B6B]">·</span>
           
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/leewilson9/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-[#7A9E7E] text-lg font-medium hover:underline inline-flex items-center gap-2"
