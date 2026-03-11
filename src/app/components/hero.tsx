@@ -3,7 +3,7 @@ export function Hero() {
     const element = document.getElementById(id);
     if (element) {
       const headerHeight = document.querySelector('header')?.offsetHeight ?? 80;
-      const top = element.getBoundingClientRect().top + window.scrollY - headerHeight - 16;
+      const top = element.getBoundingClientRect().top + window.scrollY - headerHeight;
       window.scrollTo({ top, behavior: 'smooth' });
     }
   };
