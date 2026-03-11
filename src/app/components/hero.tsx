@@ -10,13 +10,13 @@ export function Hero() {
     <section id="hero" className="min-h-screen flex items-center px-6 lg:px-12">
       <div className="max-w-7xl mx-auto w-full py-20">
         <div className="max-w-4xl">
-          <h1 className="text-5xl md:text-7xl font-bold text-[#1A1A1A] leading-tight mb-6">
+          <h1 className="text-4xl sm:text-5xl md:text-7xl font-bold text-[#1A1A1A] leading-tight mb-6">
             I'm Lee.
             <br />
             I find what's really blocking people — then fix it.
           </h1>
-          
-          <p className="text-xl md:text-2xl text-[#6B6B6B] font-medium leading-relaxed mb-8">
+
+          <p className="text-lg sm:text-xl md:text-2xl text-[#6B6B6B] font-medium leading-relaxed mb-8">
             Senior Product Manager. Human-centered by instinct, data-driven by practice. Based in Richmond, VA.
           </p>
           
