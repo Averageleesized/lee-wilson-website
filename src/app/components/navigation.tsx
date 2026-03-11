@@ -15,7 +15,9 @@ export function Navigation() {
     setMenuOpen(false);
     const element = document.getElementById(id);
     if (element) {
-      element.scrollIntoView({ behavior: 'smooth' });
+      const headerHeight = document.querySelector('header')?.offsetHeight ?? 80;
+      const top = element.getBoundingClientRect().top + window.scrollY - headerHeight - 16;
+      window.scrollTo({ top, behavior: 'smooth' });
     }
   };
 
